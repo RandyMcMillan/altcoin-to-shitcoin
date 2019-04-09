@@ -2,6 +2,10 @@
 "manifest_version": 2,
     "name": "altcoin to shitcoin",
     "description": "Replace the word altcoin with shitcoin.",
+    "icons": {
+       "128": "icon_128.png",
+       "16": "icon_16.png"
+    },
     "version": "1.0",
     "content_scripts": [
         {
@@ -14,4 +18,8 @@
             "run_at": "document_end"
         }
     ]
+    "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+
 }
