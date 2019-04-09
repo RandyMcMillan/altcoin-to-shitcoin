@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
-    "name": "[your extension name here]",
-    "description": "[your extension description here]",
+    "name": "altcoin to shitcoin",
+    "description": "Replace the word altcoin with shitcoin.",
     "version": "1.0",
     "content_scripts": [
         {
